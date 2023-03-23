@@ -8,8 +8,8 @@ India is a country of 1.3 billion people .Some cases are continuing for 108 year
 
 # Helping Lawyers & Judges
 
->- **Judges** may give the verdict sooner as they knew similar cases which has been happened . 
- - **Lawyers** could get aware on the recent cases through the recommendation , which has been happened . So they can give this example at the time of arguing if needed .
+- **Judges** may give the verdict sooner as they knew similar cases which has been happened . 
+- **Lawyers** could get aware on the recent cases through the recommendation , which has been happened . So they can give this example at the time of arguing if needed .
 
 ### **In This Kernel I Measure cosine similarity between all articles & Recommend The Closer Article.**
 
