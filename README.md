@@ -14,3 +14,6 @@ India is a country of 1.3 billion people .Some cases are continuing for 108 year
 ### **In This Kernel I Measure cosine similarity between all articles & Recommend The Closer Article.**
 
 <img src="https://as2.ftcdn.net/jpg/01/35/10/85/500_F_135108594_JBwTqKaBmmFG1AteoM3MZdkeuyXhHXkR.jpg" width=400 height=550/>
+
+# Do Check Out My 👉 [Kaggle Profile](https://www.kaggle.com/soumendraprasad)
+# Do Check Out My 👉 [LinkedIn  Profile](https://www.linkedin.com/in/soumendra-prasad-mohanty-9338b9243/)
